@@ -1,0 +1,1 @@
+a:3:{s:4:"ammo";i:100;s:9:"hitPoints";i:40;s:7:"isAlive";b:1;}
